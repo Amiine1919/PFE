@@ -1,0 +1,41 @@
+.products {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  margin-top: 0;
+}
+.product {
+  margin-top: 0;
+  font-family: sans-serif;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 70%;
+}
+
+.product > img {
+  height: 195px;
+  width: 195px;
+  border-radius: 8px;
+}
+
+.category {
+  text-align: center;
+  border: 1px solid rgb(255, 255, 255);
+  border-radius: 8px;
+  background-color: rgb(214, 214, 214);
+  color: white;
+  width: 70%;
+}
+
+.title-products {
+  font-family: "Italianno", cursive;
+  margin-top: 70px;
+  margin-bottom: 0;
+  text-align: center;
+}
+
+.title-products > span {
+  font-size: 40px;
+}

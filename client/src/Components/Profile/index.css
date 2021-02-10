@@ -1,0 +1,34 @@
+.userCard {
+  height: 90vh;
+  width: 50%;
+  background-color: aliceblue;
+  display: flex;
+  align-items: left;
+  justify-content: left;
+  flex-direction: column;
+  margin-top: 75px;
+  padding-left: 150px;
+}
+
+.userCard-info {
+  background-color: aliceblue;
+  display: flex;
+  align-items: left;
+  justify-content: left;
+  flex-direction: column;
+  margin-left: -40px;
+}
+
+.userCard-info > span {
+  font-size: 25px;
+  font-family: "Montserrat";
+  font-style: italic;
+  border: 5px solid white;
+  border-radius: 8px;
+}
+
+.userCard-info > p {
+  font-size: 18px;
+  font-family: "Montserrat";
+  margin-top: 10px;
+}

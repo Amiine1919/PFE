@@ -1,0 +1,4 @@
+{
+  "mongoUri": "mongodb+srv://amine:1020TTgrombalia@cluster0.gjmbv.mongodb.net/dbCollection?retryWrites=true&w=majority",
+  "secretOrKey": "secret key"
+}

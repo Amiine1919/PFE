@@ -1,0 +1,26 @@
+.navbar {
+  position: fixed;
+  top: 0;
+  width: 100%;
+  z-index: 1000;
+}
+
+.logo {
+  display: flex;
+  justify-content: space-between;
+  padding-top: 20px;
+}
+
+.title-site {
+  color: rgba(255, 255, 255, 0.5);
+}
+
+#collasible-nav-dropdown {
+  margin-right: 20px;
+}
+
+#option-icon-down {
+  color: rgba(15, 0, 82, 0.5);
+  font-size: large;
+  padding: 5px;
+}

@@ -1,0 +1,73 @@
+.bgImage {
+  width: 100%;
+  background-image: url("./background_image.jpg");
+  background-size: 100%;
+  opacity: 0.9;
+  background-repeat: no-repeat;
+  border: 0.1px solid rgb(0, 0, 0);
+  z-index: -1;
+}
+
+#headerHome {
+  margin-top: 120px;
+  justify-content: center;
+  width: 100%;
+  height: 500px;
+  background-image: url("./officialLogo.png");
+  background-repeat: no-repeat;
+}
+
+.div1 {
+  display: flex;
+  justify-content: space-evenly;
+  /* padding: 20px; */
+  margin: 20px 100px;
+}
+
+.div1-11 {
+  border-radius: 10px;
+  width: 50%;
+  height: 600px;
+  background-image: url("./chaine.JPG");
+  background-repeat: no-repeat;
+  background-size: 100%;
+  margin: 20px 100px;
+  opacity: 0.9;
+}
+.div1-12 {
+  border-radius: 10px;
+  width: 50%;
+  height: 600px;
+  background-image: url("./chaine11.JPG");
+  background-repeat: no-repeat;
+  background-size: 100%;
+  margin: 20px 100px;
+  opacity: 0.9;
+}
+
+.div1-13 {
+  border-radius: 10px;
+  width: 50%;
+  height: 600px;
+  background-image: url("./chaine12.JPG");
+  background-repeat: no-repeat;
+  background-size: 100%;
+  margin: 20px 100px;
+  opacity: 0.9;
+}
+
+.div1-2 {
+  width: 50%;
+  height: 600px;
+  margin: 20px 100px;
+}
+
+.div1-2 span {
+  font-size: 80px;
+  font-family: Montserrat;
+}
+
+.div1-2 ul {
+  padding: 50px;
+  list-style: none;
+}
